@@ -1,8 +1,7 @@
 {
   "version": 1,
-  "updated": "2026-11-07T00:00:00+08:00",
+  "updated": "2026-11-07T08:08:00+08:00",
   "servers": [
-    "http://wukong.aomomo888.top:23100",
-    "http://176.113.70.59:23100"
+    "http://wukong.aomomo888.top:23100"
   ]
 }
